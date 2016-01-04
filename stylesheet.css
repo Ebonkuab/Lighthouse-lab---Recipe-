@@ -1,0 +1,48 @@
+a {
+	font-style: Arial;
+}
+
+tbody {
+	height: 200px;  
+	width: 250px;
+	border-radius:5px;  
+}
+
+td:first-child {
+	height: 200px;  
+	width: 250px; 
+
+}
+
+td:nth-child(2) {
+	height: 200px;  
+	width: 250px; 
+}
+
+td:nth-child(3) {
+	height: 200px;  
+	width: 250px; 
+}
+/*img {
+	width: 300px;
+	height: :220px; */
+}
+
+#header {
+	background-color: #99ccff; 
+	border: 2px solid black;  
+	height: 450px;  
+	width: 400px;
+	float: left;
+	display:inline-block;
+}
+
+#prep {
+	background-color: #00ffff; 
+	border: 2px solid black;  
+	height: 450px;  
+	width: 400px;
+	float: right;
+	display:inline-block;
+	margin-right: 150px; 
+}
